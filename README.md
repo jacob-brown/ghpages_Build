@@ -11,6 +11,7 @@ Build a jekyll site and deploy to github pages, whilst keeping the building dire
 1. Ensure `dir_jekyll` and `dir_static` both have working repos
 2. Make sure the `dir_static` repo is set to be your [GitHub Pages](https://pages.github.com/)
 3. [jekyll](https://jekyllrb.com/) environment ready to be built
+4. Clone this repo!
 
 ## Usage
 ```
